@@ -1,0 +1,13 @@
+---
+default: -p ci -p html -p no_headless -p hml
+
+pretty: --format pretty
+ci:  --format progress
+
+html:  --format html --out=results/report.html
+
+hmg:  ENVIRONMENT_TYPE=hmg
+
+
+headless:  HEADLESS=headless
+no_headless:  HEADLESS=no_headless
