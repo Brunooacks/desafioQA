@@ -1,4 +1,4 @@
-# RUBY + CUCUMBER + RSPEC - básico
+# Desafio 01 - RUBY + CUCUMBER + RSPEC 
 
 Repositório destinado para aprendermos a usar testes automatizados com o Protractor.
 
