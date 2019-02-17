@@ -1,4 +1,4 @@
-# Desafio Noesis Automação API - Supertest
+# Desafio API - JS , Supertest e CHAI 
 
 ### Pré-requisitos para rodar localmente
 * [Instalação do node](https://nodejs.org/en/download/)
